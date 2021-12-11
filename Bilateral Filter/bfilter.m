@@ -2,7 +2,7 @@ close all;
 clear;
 clc;
 
-img = imread('bolt.jpg');
+img = imread('mountain.jpg');
 img_results = zeros(size(img));
 figure, imshow(img);
 
