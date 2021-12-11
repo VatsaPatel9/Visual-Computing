@@ -3,7 +3,7 @@ clear all;
 clc;
 
 img_source = imread('autumn.jpg');
-img_target = imread('winter.jpg');
+img_target = imread('spring.jpg');
 figure, imshow(img_source);
 figure, imshow(img_target);
 
